@@ -231,7 +231,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: false
-    url: "" # e.g., https://github.com/username/repo
+    url: "https://github.com/ddsvna/Dilyara.github.io.git" # e.g., https://github.com/username/repo
     branch: main
     content_dir: content
 
