@@ -16,4 +16,21 @@ social:
     link: https://rutube.ru/channel/81000893
   - icon: github
     link: https://github.com/ddsvna
+skills:
+  - name: "Python"
+    level: 45
+  - name: "Git"
+    level: 70
+  - name: "Data Science"
+  - level: 50
+expirince:
+  - title: Бакалавр компьютерных и информационных наук
+    company: Российский университет дружбы народов имени Патриса Лумумбы
+    date_start: "2025-09-01"
+    date_end: ""
+    description: |
+      Обучение по специальности "Компьютерные и информационные науки".
+accomplishments:
+  - caption: Сертификат об окончании ИТ школы Samsung
+  - caption: Разработка мобильного приложения
 ---
