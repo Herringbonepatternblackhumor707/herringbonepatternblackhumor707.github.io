@@ -1,7 +1,6 @@
 ---
 title: "Отчет за прошлую неделю"
 date: 2026-10-05T18:30:00+03:00
-draft: false
 type: post
 tags:
   - отчет
