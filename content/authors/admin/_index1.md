@@ -16,6 +16,8 @@ social:
     link: https://rutube.ru/channel/81000893
   - icon: github
     link: https://github.com/ddsvna
+  - icon: ORCID
+    link: https://orcid.org/0009-0000-3053-7501
 skills:
   - name: "Python"
     level: 45
