@@ -1,3 +1,10 @@
+---
+title: "Markdown language"
+date: 2026-09-07T18:30:00+03:00
+type: post
+tags:
+  - post on the topic
+---
 Markdown: A Lightweight Markup Language for Scientific Publications
 
 Date: September 7, 2026
